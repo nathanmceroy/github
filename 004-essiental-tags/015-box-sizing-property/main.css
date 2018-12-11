@@ -1,0 +1,32 @@
+div {
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+    border-radius: 150px;
+    background-image: url("../009-absolute/afterpay.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    padding: 40px;
+    margin: 50px;
+
+    }
+
+    img {
+      width: 200px;
+      box-sizing: border-box;
+        border: 1px groove green;
+        padding: 50px;
+    }
+    .oneafter {
+      border: 1px dashed green;
+      border-radius: 100px;
+    }
+    .twoafter {
+      border: 1px solid green;
+
+    }
+    .threeafter {
+      border: 1px dotted green;
+
+    }

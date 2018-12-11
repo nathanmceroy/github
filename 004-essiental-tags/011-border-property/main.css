@@ -1,0 +1,22 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    }
+
+    img {
+        border: 1px groove green;
+
+    }
+    .oneafter {
+      border: 1px dashed green;
+
+    }
+    .twoafter {
+      border: 1px solid green;
+
+    }
+    .threeafter {
+      border: 1px dotted green;
+
+    }
