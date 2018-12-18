@@ -1,0 +1,26 @@
+html {
+      background-color: skyblue;
+      }
+
+body {
+      width: 60%;
+      background-color: green;
+      margin: 0 auto;
+      border: 5px solid black;
+      padding-top: 40px;
+}
+
+img {
+    border: 5px ridge orange;
+    display: block;
+    margin: 0 auto;
+    border-radius: 100%;
+
+}
+
+#first {
+        color: skyblue;
+}
+#second {
+        color: red;
+}
